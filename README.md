@@ -106,7 +106,7 @@ Start the server with the following command:
  npm start
 ```
 
-The API will be accessible at http://localhost:<PORT>.
+The API will be accessible at http://localhost:"enter_your_local_port".
 
 
 ## Functionality
